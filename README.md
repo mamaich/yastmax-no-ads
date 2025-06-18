@@ -1,6 +1,6 @@
 # Отключение рекламы на Яндекс Станции Макс
 
-Статья: 
+Статья: https://dzen.ru/a/aFMHiIKVCkldIkdU
 
 Утилита tls_proxy описана в статье [https://dzen.ru/a/aE2nH724O0UJBTL_](https://dzen.ru/a/aE2nH724O0UJBTL_), исходные тексты: https://github.com/mamaich/yahome-no-ads (брать оттуда только утилиту, скрипты для Max свои).
 
